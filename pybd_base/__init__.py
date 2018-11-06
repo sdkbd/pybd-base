@@ -1,3 +1,3 @@
 # -*- coding: utf-8 -*-
 
-from pytt_base.base import BaseToutiao
+from pytt_base.base import BaseBaidu
